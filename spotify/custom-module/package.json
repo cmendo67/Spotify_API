@@ -1,0 +1,14 @@
+{
+  "name": "custom-module",
+  "version": "1.0.0",
+  "description": "'Make asynchronous calls'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Carlos Mendoza",
+  "license": "MIT",
+  "dependencies": {
+    "superagent": "^6.1.0"
+  }
+}
